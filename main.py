@@ -1,4 +1,3 @@
-'''
 #1st
 rings = list(map(int, input().split()))
 print(2*rings[0]*rings[2]+2*rings[1])
@@ -77,7 +76,7 @@ print(qrts//2)
 import math as m
 n = int(input())
 print(m.factorial(n+2)/((n+2)/2))
-'''
+
 #10th
 import math as m
 q = int(input())
